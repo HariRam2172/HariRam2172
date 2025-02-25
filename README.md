@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HariRam2172
-- 👀 I’m interested in AI with python, Deep learning, Cloud computing and Cybersecurity
+- 👀 I’m interested in AI with python, Java, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Python,Java,and all other needed resources...
 - 💞️ I’m looking to collaborate on MNC's
 - 📫 How to reach me Mail..
