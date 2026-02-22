@@ -13,7 +13,7 @@ Computer Science undergraduate passionate about building scalable web applicatio
 - 💻 Interested in **Software Development, Full Stack Development & Artificial Intelligence**
 - 🚀 Currently preparing for **Software Engineer roles in MNCs**
 - 🧠 Strong in **DSA, Backend Development & API Design**
-- 🌱 Currently learning **Advanced Java + System Design + React Ecosystem**
+- 🌱 Currently learning **Python + Java + System Design + React Ecosystem**
 - 🤝 Looking to collaborate on **real-world development projects**
 - 📫 Reach me at: **bogahariram2172@gmail.com**
 
